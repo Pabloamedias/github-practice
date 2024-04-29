@@ -1,3 +1,8 @@
+#Foods:
 - pizza
 - completos
 - ramen
+#Movies:
+- LOTR
+- Garfield
+- Star Wars
